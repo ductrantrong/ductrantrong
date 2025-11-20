@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 TECHNICAL STACKS
+## TECHNICAL STACKS
 
 - **Backend:** Python, Flask, FastAPI, threading, multiprocessing
 - **Data Science / ML:** PyTorch, TensorRT, ONNX, RKNN, Triton, XGBoost, Optuna, Pandas, Hugging Face
@@ -18,11 +18,11 @@
 
 ---
 
-## 💼 EXPERIENCE
+## EXPERIENCE
 
 ### **AI Engineer Team Lead** | Yabo Sports
 
-_July 2023 - Current_
+_July 2023 - Present_
 
 - **Fraud Detection System:** Designed a Kafka-integrated system processing raw transaction data. Built preprocessing pipelines for feature extraction (using PaddleOCR for images) and developed an ensemble of multi-modal models to predict fraudulent transactions.
 - **Automated Trading Agent:** Built an agent utilizing tabular OHLC data with XGBoost and Freqtrade/FreqAI, enhanced by an integrated LLM for real-time news analysis.
@@ -44,23 +44,23 @@ _August 2020 - June 2023_
 
 ---
 
-## 🎓 EDUCATION
+## EDUCATION
 
 ### **Da Nang University of Science and Technology**
 
 _2016 - 2020_
 
-- **Degree:** Embedded Engineer
+- **Degree:** B.Eng. in Embedded Systems Engineering
 - **Awards:** [Scientific Research Award 1](https://en.dut.udn.vn/the-faculty-of-advanced-science-and-technology-makes-its-mark-at-the-science-conference-and-technology-exhibition-of-students-in-2021-40.html#) | [Award 2](https://en.dut.udn.vn/students-of-fast-achieved-proud-awards-41.html#) | [Award 3](https://en.dut.udn.vn/faculty-of-advanced-science-and-technology-organizes-student-scientific-research-conference-2019-2020-fast-tech-show-2019-2020-57.html#) | [Award 4](https://en.dut.udn.vn/faculty-of-advanced-science-and-technology-organizes-student-scientific-research-conference-for-the-academic-year-2020-2021-fast-tech-show-2020-61.html#)
 
 ---
 
-## 📜 CERTIFICATIONS
+## CERTIFICATIONS
 
 - **English TOEFL ITP:** 520/677
 
 ---
 
-## 🚀 DEMO PROJECTS
+## DEMO PROJECTS
 
 - **Beyblades Battle Analyzer:** [View on GitHub](https://github.com/ductrantrong/beyblades_battle_analyzer)
